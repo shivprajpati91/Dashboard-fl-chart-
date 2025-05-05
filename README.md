@@ -1,16 +1,3 @@
-# dashboard
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot (577)](https://github.com/user-attachments/assets/7650dc95-28ae-49dd-8fd6-eeaa28f54162)
+![Screenshot (576)](https://github.com/user-attachments/assets/c7ccad78-b923-4b23-ad4f-7377cbc649b3)
+![Screenshot (575)](https://github.com/user-attachments/assets/273bdb5a-fe47-4645-b639-a97a949990fa)
